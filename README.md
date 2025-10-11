@@ -132,8 +132,7 @@ paper/
 │   └── ARMuseumManager.cs
 ├── data/                              # 社交媒体数据集
 ├── requirements.txt                   # Python依赖
-└── KaramouzasMademlis_*.pdf          # 研究论文
-```
+└── KaramouzasMademlis_*.pdf          # 研究论文```
 
 ## 许可证 / License
 
