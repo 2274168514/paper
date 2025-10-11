@@ -19,11 +19,15 @@
 
 ### 快速开始 / Quick Start
 
+**🎯 从这里开始：[`START_HERE.md`](START_HERE.md)** ← 完整导航指南
+
 **新手指南：**
 1. 📖 阅读 [`Unity_AR_Museum_Guide.md`](Unity_AR_Museum_Guide.md) - 完整开发教程
 2. ⚡ 查看 [`UNITY_AR_QUICKSTART.md`](UNITY_AR_QUICKSTART.md) - 快速入门指南
 3. 🔧 参考 [`PROJECT_SETUP_COMPLETE.md`](PROJECT_SETUP_COMPLETE.md) - 详细配置步骤
 4. 🚑 遇到问题查看 [`TROUBLESHOOTING.md`](TROUBLESHOOTING.md) - 故障排除指南
+5. 📋 准备工作 [`RESOURCES_CHECKLIST.md`](RESOURCES_CHECKLIST.md) - 资源清单
+6. 🗺️ 流程图 [`DEVELOPMENT_WORKFLOW.md`](DEVELOPMENT_WORKFLOW.md) - 开发流程
 
 ### 技术栈 / Tech Stack
 
@@ -113,11 +117,14 @@
 ```
 paper/
 ├── README.md                          # 本文件
+├── START_HERE.md                      # 👈 新手从这里开始！导航指南
 ├── CLAUDE.md                          # 社交媒体分析项目说明
 ├── Unity_AR_Museum_Guide.md          # Unity AR完整教程（中文）
 ├── UNITY_AR_QUICKSTART.md             # 快速开始指南（英文）
 ├── PROJECT_SETUP_COMPLETE.md          # 完整配置步骤
 ├── TROUBLESHOOTING.md                 # 故障排除指南
+├── RESOURCES_CHECKLIST.md             # 资源和工具清单
+├── DEVELOPMENT_WORKFLOW.md            # 开发流程图
 ├── UnityScripts/                      # Unity C#脚本
 │   ├── DeepSeekAIManager.cs
 │   ├── ChartDataManager.cs
@@ -126,7 +133,6 @@ paper/
 ├── data/                              # 社交媒体数据集
 ├── requirements.txt                   # Python依赖
 └── KaramouzasMademlis_*.pdf          # 研究论文
-
 ```
 
 ## 许可证 / License
